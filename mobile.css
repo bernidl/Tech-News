@@ -1,0 +1,11 @@
+.news-cards {
+    grid-template-columns: 1fr;
+}
+.news-cards img {
+    height: 260px;
+}
+.cards-banner-one .content, 
+.cards-banner-two .content{
+    width: 100%;
+    padding: 60px 20px;
+}
